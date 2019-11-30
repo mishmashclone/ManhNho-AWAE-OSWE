@@ -4,6 +4,9 @@ Preparation for coming AWAE Training.
 
 Work in progress...
 
+## 2016 Material (31GBs)
+- https://drive.google.com/drive/u/2/folders/1oS092bETBppM9wkn_sfpkaceF0tsEILS
+
 ## Facebook discuss group
 - https://www.facebook.com/groups/262623168007439
 
