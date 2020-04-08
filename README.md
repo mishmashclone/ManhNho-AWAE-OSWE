@@ -5,7 +5,7 @@ Preparation for coming AWAE Training.
 Work in progress...
 
 ## 2016 Material (31GBs)
-- https://drive.google.com/drive/u/2/folders/1oS092bETBppM9wkn_sfpkaceF0tsEILS
+- http://94.23.154.4/?dir=awae-oswe
 
 ## Facebook discuss group
 - https://www.facebook.com/groups/262623168007439
@@ -54,3 +54,6 @@ Work in progress...
 - https://paper.seebug.org/365/
 - https://www.youtube.com/watch?v=oUAeWhW5b8c
 - https://vulners.com/seebug/SSV:96326
+
+## Other Github Repo
+- https://github.com/wetw0rk/AWAE-PREP
