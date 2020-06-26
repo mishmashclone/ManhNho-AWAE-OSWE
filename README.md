@@ -24,7 +24,6 @@ Work in progress...
 
 ### Atmail Mail Server Appliance: from XSS to RCE (6.4) CVE-2012-2593
 - https://www.exploit-db.com/exploits/20009
-- https://github.com/sourceincite/poc/blob/master/SRC-2016-0012.py
 
 ### ATutor Authentication Bypass and RCE (2.2.1) CVE-2016-2555
 - Install: https://sourceforge.net/projects/atutor/files/atutor_2_2_1/
