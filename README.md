@@ -5,7 +5,8 @@ Preparation for coming AWAE Training.
 Work in progress...
 
 ## 2016 Material (31GBs)
-- http://94.23.154.4/?dir=awae-oswe
+- LINK: https://mnscu-my.sharepoint.com/:f:/g/personal/rs7176yh_go_minnstate_edu/Eu1bcn9wMvxHnHTkzDjYA9QBOGFRdHvhhscHfZV2ejUXnw?e=CxdyQn
+- PASSWORD:DRA4HOS7
 
 ## Facebook discuss group
 - https://www.facebook.com/groups/262623168007439
